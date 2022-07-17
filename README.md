@@ -21,4 +21,5 @@ Possuo carreira em evolução na área de TI/Data/Desenvolvimento e conhecimento
 
 # Linguagens e Ferramentas
 <p align="center">
-<img src="https://github.com/tandpfun/skill-icons/HTML.svg"
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="HTML5 height"40px" style="vertical-align:top; margin:4px">
+
