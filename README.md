@@ -1,16 +1,24 @@
-### Hi there 👋
+<details>
+<summary>BR Um pouco sobre mim</summary>
+<p>
 
-<!--
-**PgDown/PgDown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Possuo carreira em evolução na área de TI/Data/Desenvolvimento e conhecimento em linguagens de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar.
 
-Here are some ideas to get you started:
+📖 Estou cursando Desenvolvimento Full Stack Java pela EBAC – Escola Britânica de Artes Criativas e Tecnologias, ganhando mais conhecimento para aperfeiçoar minhas skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻Backlog de Estudos / Projetos:
+
+1.Sistema de marketing por e-mail
+2.Sistema de blog completo
+3.Dashboard e landing page
+4.Formulário de registro
+5.Site completo
+6.Aplicativo Node Database.js
+7.React e-commerce frontend
+8.Formulário de check-out
+</p>
+</details>
+
+# Linguagens e Ferramentas
+<p align="center">
+<img src="https://github.com/tandpfun/skill-icons/HTML.svg"
