@@ -1,6 +1,6 @@
 ### Olá Me chamo Felippe Weber 👨‍🎓
 
-<p>Possuo carreira em evolução na área de TI/Data/Desenvolvimento e conhecimento em linguagens de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar.
+<p>Estudante na área de TI/Data/Desenvolvimento e conhecimento em linguagens de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar.
 
 📖 Estou cursando Desenvolvimento Full Stack Java pela EBAC – Escola Britânica de Artes Criativas e Tecnologias, ganhando mais conhecimento para aperfeiçoar minhas skills.
 
