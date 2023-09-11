@@ -17,10 +17,8 @@
 </p>
 
 ![Felippe GitHub stats](https://github-readme-stats.vercel.app/api?username=PgDown&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe&layout=compact)](https://github.com/PgDown/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felippe&layout=compact)](https://github.com/PgDown/github-readme-stats)<br>
 
-<li><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:4px"</li> felippeweber@yahoo.com.br<br>
-<li><img src="https://www.melissasetubal.com.br/wp-content/uploads/2020/12/LinkedIn-logo.png" alt="Linkedin" width="83" height="28" style="vertical-align:top; margin:4px"> <a href="https://www.linkedin.com/in/desenvolvedor-fullstack/" target="_blank">@FelippeWeber</a></li>
 
 # 🧰 Linguagens e Ferramentas
 <p align="center">
@@ -34,3 +32,9 @@
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" alt="Sass" width="85" height="85" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" alt="Photoshop" width="85" height="85" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML5" width="85" height="85" style="vertical-align:top; margin:4px">  
+
+<h1>Contato</h1>
+
+<li><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:4px" alt="gmail"> felippeweber@yahoo.com.br</li><br>
+<li><img src="https://www.melissasetubal.com.br/wp-content/uploads/2020/12/LinkedIn-logo.png" alt="Linkedin" width="83" height="28" style="vertical-align:top; margin:4px"> <a href="https://www.linkedin.com/in/desenvolvedor-fullstack/" target="_blank">@FelippeWeber</a></li><br>
+<li><img src="https://hermes.dio.me/companies/a169bb67-5f72-4289-9778-fcea58dfa19a.png" alt="DIO" width="83" height="28" style="vertical-align:top; margin:4px"> <a href="https://www.dio.me/users/felippeweber" target="_blank">FelippeWeber</a></li><br>
