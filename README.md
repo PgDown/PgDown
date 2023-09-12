@@ -17,8 +17,8 @@
 </p>
 
 ![Felippe GitHub stats](https://github-readme-stats.vercel.app/api?username=PgDown&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PgDown&layout=compact)](https://github.com/PgDown/github-readme-stats)<br>
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PgDown&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<br>
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PgDown&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
 
 
 # 🧰 Linguagens e Ferramentas
